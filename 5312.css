@@ -1,15 +1,4 @@
-p {
-	color: #ff0000;
-}
-
-h1 {
-	color: green;
-}
-
-h2 {
-	color: #ff0000;
-}
-
-h3 {
-	color: rgb(255, 236, 114);
+td {
+	width: 300px;
+	height: 100px;
 }
