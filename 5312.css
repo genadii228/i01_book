@@ -1,35 +1,4 @@
 #p1 {
-font-family:Times New Roman ;
-}
-
-#p2 {
-font-family: Arial;
-}
-
-#p3 {
-font-family: Georgia;
-}
-
-#p4 {
-font-family: Verdana;
-}
-
-#p5 {
-font-family: Trebuchet MS;
-}
-
-#p6 {
-font-family: Impact;
-}
-
-#p7 {
-font-family: Arial Black;
-}
-
-#p8 {
-font-family: Comic Sans MS;
-}
-
-#p9 {
-font-family: Courier New;
+font-size: 30px;
+line-height: 15px;
 }
