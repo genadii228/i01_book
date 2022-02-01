@@ -3,10 +3,10 @@
 	border: 1px solid red;
 }
 #child {
-	margin-top:    50px; /* сверху */
-	margin-right:  25px; /* справа */
-	margin-bottom: 50px; /* снизу */
-	margin-left:   25px; /* слева */
+	margin-top:    20px; /* сверху */
+	margin-right:  70px; /* справа */
+	margin-bottom: 20px; /* снизу */
+	margin-left:   70px; /* слева */
 	
 	height: 100px;
 	border: 1px solid green;
