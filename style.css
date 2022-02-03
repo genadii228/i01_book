@@ -1,5 +1,8 @@
 #elem {
-	color: blue;
-	border: 1px solid red;
-	text-align: justify;
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px; /* задаем отступы */
+	border: 10px solid-box;  /* задаем границу */
+	box-sizing: border;  /* убираем расширение */
 }
